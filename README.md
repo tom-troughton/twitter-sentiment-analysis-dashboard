@@ -12,8 +12,8 @@ twitter-sentiment-analysis-dashboard/
 │   └── style.css                  # CSS stylesheet for dashboard
 ├── open-sans/
 │   └── OpenSans-Semibold.ttf      # Font file for word cloud
-├── credentials.py                 # Twitter API keys
 ├── app.py                         # Main dashboard file
+├── credentials.py                 # Twitter API keys
 └── requirements.txt               # Required Python libraries
 ```
 
